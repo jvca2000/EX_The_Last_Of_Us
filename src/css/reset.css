@@ -1,0 +1,19 @@
+/* configuração dos stilos */
+/* posso estilizar pelas tag ou pelas classes */
+
+/* resetando os stilos que já vem como padrao do navegador */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* o comando abaixo retira as bolinhas da frente das opções */
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
